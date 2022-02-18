@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 
 import requests
-import dogs_breed_det.dogs_breed_det.config as cfg
+import dogs_breed_det.config as cfg
 
 
 def build_weights_filename(network):

@@ -9,7 +9,7 @@ import sys
 import zipfile
 import subprocess
 import numpy as np
-import dogs_breed_det.dogs_breed_det.config as cfg
+import dogs_breed_det.config as cfg
 from sklearn.datasets import load_files
 from keras.utils import np_utils
 from glob import glob

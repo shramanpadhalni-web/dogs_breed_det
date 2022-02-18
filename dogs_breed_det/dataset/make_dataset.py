@@ -8,9 +8,9 @@ import logging
 import argparse
 from pathlib2 import Path
 from dotenv import find_dotenv, load_dotenv
-import dogs_breed_det.dogs_breed_det.config as cfg
-import dogs_breed_det.dogs_breed_det.dataset.data_utils as dutils
-import dogs_breed_det.dogs_breed_det.features.build_features as bfeatures
+import dogs_breed_det.config as cfg
+import dogs_breed_det.dataset.data_utils as dutils
+import dogs_breed_det.features.build_features as bfeatures
 
 
 def check_targets(data_type):

@@ -6,8 +6,8 @@ Created on Sat Aug 10 08:43:00 2019
 """
 import os
 import unittest
-import dogs_breed_det.dogs_breed_det.config as cfg
-import dogs_breed_det.dogs_breed_det.models.deep_api as dog_model
+import dogs_breed_det.config as cfg
+import dogs_breed_det.models.deep_api as dog_model
 
 # from keras.utils import plot_model
 

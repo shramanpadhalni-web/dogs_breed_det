@@ -7,7 +7,7 @@ Created on Sat Aug 10 08:47:51 2019
 import unittest
 import numpy as np
 import tensorflow as tf
-import dogs_breed_det.dogs_breed_det.models.deep_api as dog_model
+import dogs_breed_det.models.deep_api as dog_model
 
 from keras import backend as K
 

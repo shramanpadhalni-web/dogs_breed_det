@@ -1,7 +1,7 @@
 import cpuinfo  # pylint: disable=g-import-not-at-top
 import psutil
 import multiprocessing
-import dogs_breed_det.dogs_breed_det.config as cfg
+import dogs_breed_det.config as cfg
 
 from tensorflow.python.client import device_lib
 

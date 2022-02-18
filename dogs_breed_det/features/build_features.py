@@ -7,8 +7,8 @@
 
 import os
 import numpy as np
-import dogs_breed_det.dogs_breed_det.config as cfg
-import dogs_breed_det.dogs_breed_det.dataset.data_utils as dutils
+import dogs_breed_det.config as cfg
+import dogs_breed_det.dataset.data_utils as dutils
 
 
 def set_features_file(dataset_type, network='Resnet50'):

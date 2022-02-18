@@ -11,12 +11,12 @@ import tempfile
 import mimetypes
 import numpy as np
 import pkg_resources
-import dogs_breed_det.dogs_breed_det.config as cfg
-import dogs_breed_det.dogs_breed_det.sys_info as sys_info
-import dogs_breed_det.dogs_breed_det.dataset.data_utils as dutils
-import dogs_breed_det.dogs_breed_det.dataset.make_dataset as mdata
-import dogs_breed_det.dogs_breed_det.models.model_utils as mutils
-import dogs_breed_det.dogs_breed_det.features.build_features as bfeatures
+import dogs_breed_det.config as cfg
+import dogs_breed_det.sys_info as sys_info
+import dogs_breed_det.dataset.data_utils as dutils
+import dogs_breed_det.dataset.make_dataset as mdata
+import dogs_breed_det.models.model_utils as mutils
+import dogs_breed_det.features.build_features as bfeatures
 
 import keras
 from keras import backend as K
