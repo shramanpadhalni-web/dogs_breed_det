@@ -3,4 +3,4 @@
 Visualization
 """
 # import project config.py
-import dogs_breed_det.config as cfg
+import dogs_breed_det.dogs_breed_det.config as cfg
