@@ -41,7 +41,7 @@ source_suffix = '.rst'
 master_doc = 'index'
 
 # General information about the project.
-project = u'dogs_breed_det'
+project = u'Dogs breed detector'
 
 # The version info for the project you're documenting, acts as replacement for
 # |version| and |release|, also used in various other places throughout the
@@ -185,7 +185,7 @@ latex_elements = {
 latex_documents = [
     ('index',
      'dogs_breed_det.tex',
-     u'dogs_breed_det Documentation',
+     u'Dogs breed detector Documentation',
      u"Hem Chandra Padhalni", 'manual'),
 ]
 
@@ -215,7 +215,7 @@ latex_documents = [
 # One entry per manual page. List of tuples
 # (source start file, name, description, authors, manual section).
 man_pages = [
-    ('index', 'dogs_breed_det', u'dogs_breed_det Documentation',
+    ('index', 'dogs_breed_det', u'Dogs breed detector Documentation',
      [u"Hem Chandra Padhalni"], 1)
 ]
 
@@ -229,8 +229,8 @@ man_pages = [
 # (source start file, target name, title, author,
 #  dir menu entry, description, category)
 texinfo_documents = [
-    ('index', 'dogs_breed_det', u'dogs_breed_det Documentation',
-     u"Hem Chandra Padhalni", 'dogs_breed_det',
+    ('index', 'dogs_breed_det', u'Dogs breed detector Documentation',
+     u"Hem Chandra Padhalni", 'Dogs breed detector',
      'This is investigation on deepaas from corestack', 'Miscellaneous'),
 ]
 
